@@ -1,0 +1,16 @@
+customer_id,gender,age,dependents,phone_service,multiple_lines,internet_service,online_security,online_backup,device_protection,tech_support,streaming_tv,streaming_movies,contract,monthly_charges,total_charges,churn
+1001,Female,45,2,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Two year,99.90,2199.15,No
+1002,Male,55,1,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,20.45,419.50,No
+1003,Female,34,0,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,98.50,1200.15,Yes
+1004,Male,22,1,Yes,No,DSL,No,Yes,No,No,Yes,No,Month-to-month,54.60,513.45,Yes
+1005,Female,33,0,Yes,Yes,DSL,Yes,No,Yes,No,No,No,One year,69.55,1763.70,No
+1006,Male,40,1,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,Yes,Month-to-month,104.10,314.55,Yes
+1007,Female,65,0,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,20.55,1254.50,No
+1008,Female,52,2,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,115.75,2092.50,No
+1009,Male,25,0,Yes,Yes,Fiber optic,No,No,Yes,Yes,Yes,Yes,Month-to-month,113.25,575.20,Yes
+1010,Male,67,0,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,115.50,2419.35,No
+1011,Female,48,0,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,Month-to-month,89.20,512.35,Yes
+1012,Male,30,1,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,99.05,664.85,Yes
+1013,Female,55,1,Yes,Yes,Fiber optic,No,No,No,Yes,No,No,Month-to-month,79.30,1395.60,Yes
+1014,Male,22,0,Yes,No,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,69.95,1344.25,No
+1015,Female,43,1,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,Yes,Month-to-month,94.00,187.50,No
