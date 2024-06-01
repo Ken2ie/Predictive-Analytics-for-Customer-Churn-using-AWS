@@ -34,4 +34,4 @@ This project demonstrates the application of AWS services to predict customer ch
 
 ## Project Summary
 
-This project demonstrates the effective use of AWS services to address complex data science tasks such as predictive analytics. By following this comprehensive workflow, organizations can efficiently manage, process, analyze, and model large datasets using AWS tools. This showcases a candidate's ability to implement end-to-end solutions for data science projects.
+This project demonstrates the effective use of AWS services to address complex data science tasks such as predictive analytics. By following this comprehensive workflow, organizations can efficiently manage, process, analyze, and model large datasets using AWS tools.
